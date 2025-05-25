@@ -9,12 +9,12 @@
 
 
 
-使用代理的步骤
+# 使用代理的步骤
 1. 生成 token:
 方法 3：使用个人访问令牌（PAT）替代密码（GitHub 等平台适用）
 GitHub 等平台已禁用 HTTPS 的密码验证，需用 Personal Access Token (PAT) 替代密码。
 
-步骤
+# 步骤
 >生成 PAT：
 **GitHub：Settings → Developer Settings → Personal Access Tokens → Generate new token。**
 勾选 repo 权限，生成 Token。  
