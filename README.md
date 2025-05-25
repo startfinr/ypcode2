@@ -15,7 +15,7 @@
 GitHub 等平台已禁用 HTTPS 的密码验证，需用 Personal Access Token (PAT) 替代密码。
 
 # 步骤
->生成 PAT：
+> 生成 PAT：
 **GitHub：Settings → Developer Settings → Personal Access Tokens → Generate new token。**
 勾选 repo 权限，生成 Token。  
 使用 PAT 代替密码：  
